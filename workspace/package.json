@@ -1,0 +1,10 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Workspace for local development and testing.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js < input.txt"
+  }
+}
